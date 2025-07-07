@@ -6,7 +6,7 @@ const posts = [
     description: "Life begins at the end of your comfort zone.",
     image: "/public/Frame (5).png",
     author: "William Wong",
-    authorImage: "/public/IMAGE (12).png",
+    authorImage: "/IMAGE (12).png",
     date: "9/25/2015",
   },
   {
@@ -14,13 +14,13 @@ const posts = [
     description: "No place is ever as bad as they tell you it’s going to be.",
     image: "/public/Frame (6).png",
     author: "Mat Vogels",
-    authorImage: "/public/IMAGE (12).png",
+    authorImage: "/IMAGE (12).png",
     date: "9/25/2015",
   },
   {
     title: "Water Falls",
     description: "We travel not to escape life, but for life not to escape us.",
-    image: "/public/Frame (7).png",
+    image: "/Frame (7).png",
     author: "Mat Vogels",
     authorImage: "/public/IMAGE (12).png",
     date: "9/25/2015",
@@ -29,7 +29,7 @@ const posts = [
     title: "Through the Mist",
     description:
       "Travel makes you see what a tiny place you occupy in the world.",
-    image: "/public/Frame (8).png",
+    image: "/Frame (8).png",
     author: "William Wong",
     authorImage: "/public/IMAGE (12).png",
     date: "9/25/2015",
@@ -37,7 +37,7 @@ const posts = [
   {
     title: "Awaken Early",
     description: "Not all those who wander are lost.",
-    image: "/public/Frame (9).png",
+    image: "/Frame (9).png",
     author: "Mat Vogels",
     authorImage: "/public/IMAGE (12).png",
     date: "9/25/2015",
@@ -46,7 +46,7 @@ const posts = [
     title: "Try it Always",
     description:
       "The world is a book, and those who do not travel read only one page.",
-    image: "/public/Frame (10).png",
+    image: "/Frame (10).png",
     author: "Mat Vogels",
     authorImage: "/public/IMAGE (12).png",
     date: "9/25/2015",
