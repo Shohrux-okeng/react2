@@ -1,6 +1,6 @@
 const Subscribe = () => {
   return (
-    <div className="bg-[url('/public/salom.png')] bg-cover bg-center min-h-[60vh] flex flex-col justify-center items-center text-white px-4">
+    <div className="bg-[url('/salom.png')] bg-cover bg-center min-h-[60vh] flex flex-col justify-center items-center text-white px-4">
       <h2 className="text-2xl md:text-3xl font-light mb-2">Stay in Touch</h2>
       <div className="w-24 h-[1px] bg-white mb-6"></div>
       <div className="flex flex-col sm:flex-row bg-white/90 rounded-md overflow-hidden shadow-md">

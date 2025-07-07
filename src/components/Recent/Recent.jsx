@@ -4,7 +4,7 @@ const posts = [
   {
     title: "Still Standing Tall",
     description: "Life begins at the end of your comfort zone.",
-    image: "/public/Frame (5).png",
+    image: "/Frame (5).png",
     author: "William Wong",
     authorImage: "/IMAGE (12).png",
     date: "9/25/2015",
@@ -12,7 +12,7 @@ const posts = [
   {
     title: "Sunny Side Up",
     description: "No place is ever as bad as they tell you it’s going to be.",
-    image: "/public/Frame (6).png",
+    image: "/Frame (6).png",
     author: "Mat Vogels",
     authorImage: "/IMAGE (12).png",
     date: "9/25/2015",
@@ -22,7 +22,7 @@ const posts = [
     description: "We travel not to escape life, but for life not to escape us.",
     image: "/Frame (7).png",
     author: "Mat Vogels",
-    authorImage: "/public/IMAGE (12).png",
+    authorImage: "/IMAGE (12).png",
     date: "9/25/2015",
   },
   {
@@ -31,7 +31,7 @@ const posts = [
       "Travel makes you see what a tiny place you occupy in the world.",
     image: "/Frame (8).png",
     author: "William Wong",
-    authorImage: "/public/IMAGE (12).png",
+    authorImage: "/IMAGE (12).png",
     date: "9/25/2015",
   },
   {
@@ -39,7 +39,7 @@ const posts = [
     description: "Not all those who wander are lost.",
     image: "/Frame (9).png",
     author: "Mat Vogels",
-    authorImage: "/public/IMAGE (12).png",
+    authorImage: "/IMAGE (12).png",
     date: "9/25/2015",
   },
   {
@@ -48,7 +48,7 @@ const posts = [
       "The world is a book, and those who do not travel read only one page.",
     image: "/Frame (10).png",
     author: "Mat Vogels",
-    authorImage: "/public/IMAGE (12).png",
+    authorImage: "/IMAGE (12).png",
     date: "9/25/2015",
   },
 ];
